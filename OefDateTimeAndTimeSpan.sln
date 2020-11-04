@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefDateTimeAndTimeSpan", "OefDateTimeAndTimeSpan\OefDateTimeAndTimeSpan.csproj", "{EB8BB580-A03C-445D-9DB0-31EE5366AAF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oef2.0", "Oef2.0\Oef2.0.csproj", "{2013B9F3-C240-49B4-B7DE-F082F3A2EA8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8BB580-A03C-445D-9DB0-31EE5366AAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8BB580-A03C-445D-9DB0-31EE5366AAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8BB580-A03C-445D-9DB0-31EE5366AAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8BB580-A03C-445D-9DB0-31EE5366AAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2013B9F3-C240-49B4-B7DE-F082F3A2EA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2013B9F3-C240-49B4-B7DE-F082F3A2EA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2013B9F3-C240-49B4-B7DE-F082F3A2EA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2013B9F3-C240-49B4-B7DE-F082F3A2EA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1144639D-E4C0-4BB5-B5D0-843AB31FCCE8}
+	EndGlobalSection
+EndGlobal
